@@ -15,7 +15,7 @@ Make sure you have you have the latest version of Docker (e.g. >25) and VS Code 
 
 In Gitpod
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/mandy766/icp-simple-site.git/)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/mandy766/icp-simple-site/)
 ## 🚀 Develop
 
 When the editor opened, run the following commands to start a local ICP node and deploy the canister smart contract:
